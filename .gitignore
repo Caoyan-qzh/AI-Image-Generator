@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 配置文件
+config.py
+
+# 输出目录
+output/
+
+# 日志文件
+*.log
+
+# 虚拟环境
+venv/
+.env/
+
+# IDE配置
+.vscode/
+.idea/
