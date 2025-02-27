@@ -2,6 +2,7 @@
 
 基于阿里云灵积模型的批量图片生成工具
 
+共创者：@Caoyan-qzh
 
 [English](README_EN.md) | 简体中文
 
