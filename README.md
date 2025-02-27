@@ -2,8 +2,6 @@
 
 基于阿里云灵积模型的批量图片生成工具
 
-共创者：Caoyan-qzh
-
 [English](README_EN.md) | 简体中文
 
 ## 功能特点
@@ -21,6 +19,13 @@
 - aiohttp
 - Pillow
 - 阿里云灵积API密钥（注册即送500万tokens免费额度）
+
+## 贡献者
+
+这个项目由以下人员共同创建：
+
+- [qinzihan666](https://github.com/qinzihan666) 
+- [Caoyan-qzh](https://github.com/Caoyan-qzh) 
 
 ## 安装
 
